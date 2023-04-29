@@ -18,3 +18,5 @@ eureka:
 spring:
   application:
     name: eureka-provider
+
+pandaz: you are the best!
